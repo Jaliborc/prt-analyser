@@ -5,7 +5,9 @@ This Java application allows one to visualize models of precomputed diffuse radi
 * .pgv - Precomputed Geometry and Visibility
 * .ptgv -Precomputed Textured Geometry and Visibility
 
+Supported files can be created using [prt generator](https://github.com/jaliborc/prt-generator) and used in [prt demo](https://github.com/jaliborc/prt-demo). For already generated example files, see [releases](https://github.com/Jaliborc/prt-demo/releases).
+
 [![Preview](http://jaliborc.com/images/research/prt-analyser.png)](https://goo.gl/jDGfgJ)
 [Preview](https://goo.gl/jDGfgJ)
 
-Supported files can be created using [prt generator](https://github.com/jaliborc/prt-generator) and used in [prt demo](https://github.com/jaliborc/prt-demo). This application was based on an unrelated Java application written by [Paul Kry](https://www.cs.mcgill.ca/~kry/) for one of his classes on computer animation.
+This application was based on an unrelated Java application written by [Paul Kry](https://www.cs.mcgill.ca/~kry/) for one of his classes on computer animation.
